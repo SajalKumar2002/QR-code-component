@@ -1,0 +1,33 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: sans-serif;
+    padding-top: auto;
+    margin: 0px;
+    text-align: center;
+}
+.card {
+    padding: 50px;
+    width: 90rem;
+    padding: 5%;
+    background-color: white;
+    margin:10% auto 10% auto;
+    padding: 20px;
+    width: 310px;
+    border-radius: 25px;
+}
+
+.card-img {
+    height: 300px;
+    border-radius: 25px;
+}
+.card-content {
+    word-wrap: normal;
+}
+h1 {
+    font-size: 25px;
+}
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 18px;
+    font-weight: 400;
+}
